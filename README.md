@@ -17,4 +17,4 @@ Les labels et bounding box ont été renseignéres avec le programme python Labe
 
 Résultat de l'application :
 
-![Exemple de détection](assets/ssd-mobilenet.jpeg)
+<img src="assets/ssd-mobilenet.jpeg" width=40% height=40%>
